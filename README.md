@@ -25,6 +25,7 @@ The project aimed to develop an AI-powered phishing detection tool, utilizing ad
 
 #### **Running the script**
     - pip install -r requirements.txt
+    - python3 main.py
 
 ### Achievements -
 1. High Accuracy: Achieved a significant accuracy level in distinguishing between phishing and legitimate emails.
